@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hiroyukiの日記</title>
-    <link>http://mapf0ld.github.io/</link>
+    <link>https://mapf0ld.github.io/</link>
     <description>Recent content on Hiroyukiの日記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Sun, 08 Jan 2023 14:33:49 +0900</lastBuildDate><atom:link href="http://mapf0ld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Sun, 08 Jan 2023 14:33:49 +0900</lastBuildDate><atom:link href="https://mapf0ld.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ご挨拶</title>
-      <link>http://mapf0ld.github.io/posts/testing/</link>
+      <link>https://mapf0ld.github.io/posts/testing/</link>
       <pubDate>Sun, 08 Jan 2023 14:33:49 +0900</pubDate>
       
-      <guid>http://mapf0ld.github.io/posts/testing/</guid>
-      <description>Hello World! これからこのブログに色々書いていきます. 主に
- キリスト教の信仰のこと, 信仰生活のこと 数学, コンピュータのこと  がメインコンテンツです.
-ブログのデサインもこんな地味なやつじゃなくてもっと色合いの良いものにします.</description>
+      <guid>https://mapf0ld.github.io/posts/testing/</guid>
+      <description>Hello World! これからこのブログに色々書いていきます. 主に キリスト教の信仰のこと, 信仰生活のこと 数学, コンピュータのこと がメインコンテンツです. ブログ</description>
     </item>
     
   </channel>
