@@ -1,5 +1,5 @@
 theme = "ananke"
-canonifyURLs = 'false'
+canonifyURLs = false
 baseURL = 'http://mapf0ld.github.io/'
 publishDir = "docs"
 languageCode = 'en-us'
