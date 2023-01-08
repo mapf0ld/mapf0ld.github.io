@@ -1,6 +1,6 @@
 theme = "ananke"
 canonifyURLs = false
-baseURL = 'http://mapf0ld.github.io/'
+baseURL = 'https://mapf0ld.github.io/'
 publishDir = "docs"
 languageCode = "ja"
 defaultContentLanguage = "ja"
