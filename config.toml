@@ -2,5 +2,5 @@ theme = "ananke"
 canonifyURLs = false
 baseURL = 'http://mapf0ld.github.io/'
 publishDir = "docs"
-languageCode = 'en-us'
+languageCode = 'ja-jp'
 title = 'Hiroyukiの日記'
