@@ -1,7 +1,7 @@
 ---
 title: "ご挨拶"
 date: 2023-01-08T14:33:49+09:00
-draft: true
+draft: false
 ---
 # Hello World!
 

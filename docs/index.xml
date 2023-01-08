@@ -5,6 +5,17 @@
     <link>http://mapf0ld.github.io/</link>
     <description>Recent content on Hiroyukiの日記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mapf0ld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2023 14:33:49 +0900</lastBuildDate><atom:link href="http://mapf0ld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ご挨拶</title>
+      <link>http://mapf0ld.github.io/posts/testing/</link>
+      <pubDate>Sun, 08 Jan 2023 14:33:49 +0900</pubDate>
+      
+      <guid>http://mapf0ld.github.io/posts/testing/</guid>
+      <description>Hello World! これからこのブログに色々書いていきます. 主に
+ キリスト教の信仰のこと, 信仰生活のこと 数学, コンピュータのこと  がメインコンテンツです.</description>
+    </item>
+    
   </channel>
 </rss>
