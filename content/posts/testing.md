@@ -1,6 +1,7 @@
 ---
 title: "ご挨拶"
 date: 2023-01-08T14:33:49+09:00
+tags: ["ご挨拶"]
 draft: false
 ---
 # Hello World!
