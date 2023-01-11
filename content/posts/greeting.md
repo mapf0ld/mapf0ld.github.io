@@ -2,6 +2,7 @@
 title: "ご挨拶"
 date: 2023-01-08T14:33:49+09:00
 tags: ["ご挨拶"]
+featured_image: '/images/candlelight.jpg'
 draft: false
 ---
 # Hello World!
@@ -14,4 +15,3 @@ draft: false
 がメインコンテンツです.
 
 ブログのデサインもこんな地味なやつじゃなくてもっと色合いの良いものにします.
-hello
