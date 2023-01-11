@@ -5,4 +5,4 @@ publishDir = "docs"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
-title = 'Hiroyukiの日記'
+title = 'Hiroyuki Log'
