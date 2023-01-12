@@ -3,7 +3,7 @@ title: "命のパンなる神様の御言葉"
 date: 2023-01-11T19:08:50+09:00
 tags: ["証", "信仰", "キリスト教", "RAPTブログ"]
 featured_image: '/images/bread.jpg'
-draft: true
+draft: false
 ---
 # 命のパン
 聖書にはこんな記述があります.
