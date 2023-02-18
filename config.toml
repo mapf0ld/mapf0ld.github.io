@@ -6,3 +6,8 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 title = 'Hiroyuki Log'
+
+#[taxonomies]
+#tag = "tags"
+#cagtegory = "categories"
+#archive = "archives"
