@@ -1,4 +1,4 @@
-theme: "ananke"
+theme: "github.com/theNewDynamic/gohugo-theme-ananke"
 canonifyURLs: false
 baseURL: 'https://mapf0ld.github.io/'
 publishDir: "docs"
