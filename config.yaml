@@ -7,6 +7,17 @@ defaultContentLanguage: "ja"
 hasCJKLanguage: true
 title: 'Hiroyuki Log'
 
+author:
+  twitter: "https://twitter.com/mapf0ld"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+
+
 
 #[taxonomies]
 #tag = "tags"
