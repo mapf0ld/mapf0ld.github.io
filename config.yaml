@@ -28,11 +28,6 @@ params:
 
   show_reading_time: true
 
-  footer:
-    - title: About
-      content: >
-        私mapf0ldことHiroyukiの信仰記録です.
-
 #[taxonomies]
 #tag = "tags"
 #cagtegory = "categories"
