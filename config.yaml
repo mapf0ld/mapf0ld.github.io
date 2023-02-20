@@ -1,0 +1,14 @@
+theme: "ananke"
+canonifyURLs: false
+baseURL: 'https://mapf0ld.github.io/'
+publishDir: "docs"
+languageCode: "ja"
+defaultContentLanguage: "ja"
+hasCJKLanguage: true
+title: 'Hiroyuki Log'
+
+
+#[taxonomies]
+#tag = "tags"
+#cagtegory = "categories"
+#archive = "archives"
