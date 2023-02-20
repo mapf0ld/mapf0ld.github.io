@@ -17,7 +17,14 @@ menu:
       url: /about
       weight: 100
 
-
+params:
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/mapf0ld
+    - name: github
+      url: https://github.com/mapf0ld
+    - name: instagram
+      url: https://instagram.com/vertexion
 
 #[taxonomies]
 #tag = "tags"
