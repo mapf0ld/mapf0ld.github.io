@@ -1,6 +1,8 @@
 # Hiroyuki Logへようこそ
 このサイトは, 私[mapf0ld](https://twitter.com/mapf0ld)ことHiroyukiの信仰記録であり, 信仰の証の置き場であり, また考えの置き場です.
 
+サイトは現在建設中です. フロントエンドに弱いので, [Hugo](https://gohugo.io/)を使って生成しています.
+
 私の興味は,
 * 計算機科学
     - 線型論理
