@@ -1,11 +1,11 @@
 theme: "github.com/theNewDynamic/gohugo-theme-ananke"
 canonifyURLs: false
-baseURL: 'https://mapf0ld.github.io/'
+baseURL: "https://mapf0ld.github.io/"
 publishDir: "docs"
 languageCode: "ja"
 defaultContentLanguage: "ja"
 hasCJKLanguage: true
-title: 'Hiroyuki Log'
+title: "Tsukahara Log"
 
 author:
   twitter: "https://twitter.com/mapf0ld"
@@ -27,7 +27,6 @@ params:
       url: https://instagram.com/vertexion
 
   show_reading_time: true
-
 #[taxonomies]
 #tag = "tags"
 #cagtegory = "categories"
