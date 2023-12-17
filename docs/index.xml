@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tsukahara Log</title>
+    <title>mapf0ld Log</title>
     <link>https://mapf0ld.github.io/</link>
-    <description>Recent content on Tsukahara Log</description>
+    <description>Recent content on mapf0ld Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 Dec 2023 12:14:55 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 10:35:08 +0900</lastBuildDate>
     <atom:link href="https://mapf0ld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>善行の根拠, 悪行の根拠</title>
+      <link>https://mapf0ld.github.io/posts/testimony_2023-12-17/</link>
+      <pubDate>Sun, 17 Dec 2023 10:35:08 +0900</pubDate>
+      <guid>https://mapf0ld.github.io/posts/testimony_2023-12-17/</guid>
+      <description>全て善と悪とを裂く主の教え! 私たち, raptブログ有料記事 におけるRAPTさんの教えに従って, 天地万物の創造主, 私たちの神, 主を愛して生きる</description>
+    </item>
     <item>
       <title>霊でも働き, 肉でも働く</title>
       <link>https://mapf0ld.github.io/posts/testimony_2023-12-10/</link>
@@ -349,7 +356,7 @@
       <link>https://mapf0ld.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mapf0ld.github.io/about/</guid>
-      <description>Hiroyuki Logへようこそ このサイトは, 私mapf0ldことHiroyukiの信仰記録であり, 信仰の証の置き場であり, また考えの置き場です. サイトは</description>
+      <description>mapf0ld Logへようこそ このサイトは, 私mapf0ldことHiroyukiの信仰記録であり, 信仰の証の置き場であり, また考えの置き場です. サイトは</description>
     </item>
   </channel>
 </rss>

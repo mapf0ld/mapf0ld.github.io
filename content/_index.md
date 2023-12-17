@@ -1,5 +1,5 @@
 ---
-title: "Tsukahara Log"
+title: "mapf0ld Log"
 
 description: "信仰のこと, 愛のこと, 人生のこと記録"
 cascade:

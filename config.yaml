@@ -5,7 +5,7 @@ publishDir: "docs"
 languageCode: "ja"
 defaultContentLanguage: "ja"
 hasCJKLanguage: true
-title: "Tsukahara Log"
+title: "mapf0ld Log"
 
 author:
   twitter: "https://twitter.com/mapf0ld"
@@ -24,7 +24,7 @@ params:
     - name: github
       url: https://github.com/mapf0ld
     - name: instagram
-      url: https://instagram.com/vertexion
+      url: https://instagram.com/mapf0ld
 
   show_reading_time: true
 #[taxonomies]
