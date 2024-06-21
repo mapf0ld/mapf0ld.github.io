@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ご挨拶 on mapf0ld Log</title>
-    <link>https://mapf0ld.github.io/tags/%E3%81%94%E6%8C%A8%E6%8B%B6/</link>
+    <link>http://localhost:1313/tags/%E3%81%94%E6%8C%A8%E6%8B%B6/</link>
     <description>Recent content in ご挨拶 on mapf0ld Log</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 08 Jan 2023 14:33:49 +0900</lastBuildDate>
-    <atom:link href="https://mapf0ld.github.io/tags/%E3%81%94%E6%8C%A8%E6%8B%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%81%94%E6%8C%A8%E6%8B%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ご挨拶</title>
-      <link>https://mapf0ld.github.io/posts/greeting/</link>
+      <link>http://localhost:1313/posts/greeting/</link>
       <pubDate>Sun, 08 Jan 2023 14:33:49 +0900</pubDate>
-      <guid>https://mapf0ld.github.io/posts/greeting/</guid>
+      <guid>http://localhost:1313/posts/greeting/</guid>
       <description>Hello World! これからこのブログに色々書いていきます. 主に キリスト教の信仰のこと, 信仰生活のこと 数学, コンピュータのこと がメインコンテンツです. ブログ</description>
     </item>
   </channel>
